@@ -1,3 +1,3 @@
 # Learning GCP Project
       
-Links, reading notes and other resources are placed here
+- https://medium.com/google-cloud/how-to-set-up-cloud-build-for-firebase-cloud-functions-cffcf2812302
